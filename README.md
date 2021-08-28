@@ -11,7 +11,7 @@ A Self-Taught Full Stack Web Application Developer and WordPress Expert from <im
 
 ### :coffee: Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifur703/?lipi=urn%3Ali%3Apage%3Aprofile_view_index_index%3B5c8bf198-a473-4f5c-8ba4-376bc4934e11) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifur703@gmail.com) 
-[<img alt="Website" width="26px" src="https://github.com/saifur703/saifur703/blob/master/website.jpg" />](https://saifurpro.netlify.app/)
+<a href="https://saifurpro.netlify.app/" target="_blank"><img alt="Website" width="26px" src="https://github.com/saifur703/saifur703/blob/master/website.jpg" /></a>
 
 ### Technical Skills
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
