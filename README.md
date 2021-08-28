@@ -26,6 +26,6 @@ A Self-Taught Full Stack Web Application Developer and WordPress Expert from <im
 [![mySQL Badge](https://img.shields.io/badge/mysql-orange?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](#)
 [![WordPress Badge](https://img.shields.io/badge/wordpress-blue?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=white)](#)
 
-[![Saifur's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifur703&show_icons=true)](https://github.com/saifur703/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifur703&layout=compact)](https://github.com/saifur703/github-readme-stats)
+[![Saifur's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifur703&show_icons=true)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifur703&layout=compact)](#)
 
