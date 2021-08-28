@@ -1,12 +1,13 @@
 ### Hi there 👋 I'm [Md. Saifur Rahman](https://saifurpro.netlify.app/)
 A Self-Taught Full Stack Web Application Developer and WordPress Expert from <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="13"/> Bangladesh. I Spend most of time learning new technology or doing clients projects.
 
-- 🔭 I’m currently working at [Upwork](https://www.upwork.com/o/profiles/users/_~0154814b62379dfa42/)
+- 🔭 I’m currently working at Upwork
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: JavaScript, React, Nodejs: Under the Hood, Top rated Plus Seller on Upwork as a WordPress Expert
 - :hearts: I enjoy programming and sharing knowledge
-- :computer: Most used line of code `console.log("hello world")`
+- :computer: Most used line of code `console.log("hello world");`
 - ⚡ Fun fact: I love to watch movies
+- 🤔 I’m looking for people who can help me with getting a remote job
 - 📧 How to reach out to me: **saifur703@gmail.com**
 
 ### :coffee: Connect with me:
