@@ -4,16 +4,16 @@ A Self-Taught Full Stack Web Application Developer and WordPress Expert from <im
 - 🔭 I’m currently working at [Upwork](https://www.upwork.com/o/profiles/users/_~0154814b62379dfa42/)
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: JavaScript, React, Nodejs: Under the Hood, Top rated Plus Seller on Upwork as a WordPress Expert
-- :hearts: &emsp;I enjoy programming and sharing knowledge
-- :computer: &emsp;Most used line of code `console.log("hello world")`
+- :hearts: I enjoy programming and sharing knowledge
+- :computer: Most used line of code `console.log("hello world")`
 - ⚡ Fun fact: I love to watch movies
-- 📫 How to reach out to me: **saifur703@gmail.com**
+- 📧 How to reach out to me: **saifur703@gmail.com**
 
 ### :coffee: Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifur703/?lipi=urn%3Ali%3Apage%3Aprofile_view_index_index%3B5c8bf198-a473-4f5c-8ba4-376bc4934e11) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifur703@gmail.com) 
-<a href="https://saifurpro.netlify.app/" target="_blank"><img alt="Website" width="26px" src="https://github.com/saifur703/saifur703/blob/master/website.jpg" /></a>
+[<img alt="Website" width="26px" src="https://github.com/saifur703/saifur703/blob/master/website.jpg" />](https://saifurpro.netlify.app/)
 
-### Technical Skills
+### :computer: Technical Skills
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
