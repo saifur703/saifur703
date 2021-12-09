@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm [Md. Saifur Rahaman](https://saifurpro.netlify.app/)
-A Self-Taught Full Stack Web Application Developer and WordPress Expert from <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="13"/> Bangladesh. I Spend most of time learning new technology or doing clients projects.
+A Self-Taught Full Stack Web Application Developer and WordPress Expert from Bangladesh. I Spend most of time learning new technology or doing clients projects.
 
 - 🔭 I’m currently working at Upwork
 - 🌱 I’m currently learning everything 🤣
