@@ -30,3 +30,11 @@ A Self-Taught Full Stack Web Application Developer and WordPress Expert from Ban
 [![Saifur's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifurpro&show_icons=true)](#)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifurpro&layout=compact)](#)
 
+### My passion:
+- ⚡ I can do whatever I want. I can learn whatever I want. Passion for Programming is something boundless.
+- ⚡ No one is standing on my head. I can start coding a project until I lose interest and start another project.
+- ⚡ I can skip a few meals and can have sleepless nights because of the excitement. 
+- ⚡ I am always curious about new thing and I start learning about different things. I am a programming geek.
+- ⚡ I don't need to use long as comments, so other programmers can understand my logic.
+- ⚡ I don't have social and love life! PC is my girlfriend.
+
