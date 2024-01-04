@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm [Md. Saifur Rahaman](https://saifurpro.netlify.app/)
-A Self-Taught Full Stack Web Application Developer and WordPress Expert from Bangladesh. I Spend most of time learning new technology or doing clients projects.
+A Self-Taught Full Stack Web Application Developer and WordPress Expert from Bangladesh. I Spend most of my time learning new technology or doing client projects.
 
 - 🔭 I’m currently working at Upwork
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022-2023 Goals: JavaScript, React, Nodejs: Under the Hood, Top rated Plus Seller on Upwork as a WordPress Expert
+- 🥅 2023-2024 Goals: JavaScript, React, Nodejs: Under the Hood, Top rated Plus Seller on Upwork as a WordPress Expert
 - :hearts: I enjoy programming and sharing knowledge
 - :computer: Most used line of code `console.log("hello world");`
 - ⚡ Fun fact: I love to watch movies
